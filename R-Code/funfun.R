@@ -19,4 +19,4 @@ funfun <- function(n = 61, max_width = 10, max_height = max_width,
     Sys.sleep(time_step)
   }
 }
-funfun(200)
+funfun(56)
